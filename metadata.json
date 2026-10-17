@@ -1,0 +1,6 @@
+{
+  "name": "Sticker Gacha — 3D Skia & Three.js Arcade",
+  "description": "Cross-platform 3D Gacha & Lucky Spin experience with glossy 3D bevels, squash-and-stretch spring physics, custom Skia/WebGPU shaders, and Blender MCP scene inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
